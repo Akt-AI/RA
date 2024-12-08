@@ -1,0 +1,15 @@
+/* Change sidebar background color */
+.wy-side-nav-search {
+    background-color: #f5f5f5;
+}
+
+/* Change heading colors */
+h1, h2, h3 {
+    color: #333;
+}
+
+/* Add padding to content */
+.wy-nav-content {
+    padding: 20px;
+}
+

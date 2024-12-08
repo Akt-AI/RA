@@ -1,0 +1,28 @@
+# Ignore the large model file
+models/OuteTTS-0.2-500M-Q2_K.gguf
+
+# Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Streamlit config files
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# IDE files
+.idea/
+.vscode/
+*.iml
